@@ -2,7 +2,7 @@
 
 # COLOR PROJECT
 
-## FULLSTACK PRACTICE PROJECT NO: 1
+## FRONTEND PRACTICE PROJECT NO: 1
 
 1. I used Javascript, Jquery, HTML, CSS to practice my skills.
 
